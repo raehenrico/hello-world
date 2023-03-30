@@ -1,3 +1,3 @@
 # hello-world
 
-Hi! am ryan henry and i love to code.
+Hi! am Ryan Henry and I love to code.
